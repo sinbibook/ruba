@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-02-03T08:00:35.296Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-02-03T08:49:55.688Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
     "homepageId": "aadc8ea8-e258-4f9b-98dd-ee333834a2e5"
@@ -240,7 +240,36 @@
         "description": "전 객실 애견동반 가능",
         "usageGuide": "[애견동반]\n- 전 객실 애견동반 가능(사전문의필수)\n- 추가요금: 1마리 당 1~8kg 20,000원 / 9kg 이상은 스페셜객실만 가능 1마리 당 40,000원 (1박기준/현장결제)\n- 제한 마릿수: 최대 3마리 동반입실 가능\n※ 사람 또는 반려견에게 심한 공격성을 보이거나 공격한 반려견은 입실 불가합니다.",
         "displayOrder": 4,
-        "images": []
+        "images": [
+          {
+            "id": "eedc0bef-e10b-425e-8d62-80753e67862d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/451f686a-4ae0-4b95-aee7-fb2812119673/main/1770108573064-4n9bwz4y73e.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "cca72b08-483a-4a3f-a1ef-bd783bf63bb5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/451f686a-4ae0-4b95-aee7-fb2812119673/main/1770108573065-8d3onsf91u9.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ed0c5bda-3bb4-44e6-bcbf-3aa8d6cb05ce",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/451f686a-4ae0-4b95-aee7-fb2812119673/main/1770108573064-541p8nvvty3.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "89a6752f-9b76-4588-b43c-ece7cfd7a3a5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/451f686a-4ae0-4b95-aee7-fb2812119673/main/1770108573064-qpjc1tad8v.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "bb7c565d-99b0-4992-8b25-20a0f9e9ddd0",
@@ -252,6 +281,13 @@
           {
             "id": "a6903577-ab4f-4dde-9f08-3ac1d08b87a0",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/bb7c565d-99b0-4992-8b25-20a0f9e9ddd0/main/1770096167101-qjohe8tvhu9.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2b7b9173-51a6-491d-a2f7-e1001a82f370",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/bb7c565d-99b0-4992-8b25-20a0f9e9ddd0/main/1770108571650-9a4n6zgna9.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
