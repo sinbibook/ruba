@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-02-03T08:54:09.317Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-02-04T00:51:04.585Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
     "homepageId": "aadc8ea8-e258-4f9b-98dd-ee333834a2e5"
@@ -293,14 +293,6 @@
             "isSelected": true
           }
         ]
-      },
-      {
-        "id": "85a09a49-4c9c-4dc3-bcaa-7de1c978b390",
-        "name": "편의시설",
-        "description": "펜션 내 편의시설",
-        "usageGuide": "[편의시설]\n- 전 객실 Wi-Fi 이용 가능\n- 펜션 내 주차공간",
-        "displayOrder": 6,
-        "images": []
       }
     ],
     "refundPolicies": [
@@ -677,7 +669,7 @@
                 "description": " "
               },
               "closing": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "46f24cda-9ced-4abc-a1cb-93fb26c81251",
@@ -686,10 +678,11 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "자연 속 쉼이 머무는 가평 루바펜션"
               },
               "essence": {
-                "title": "다양한 객실타입",
+                "title": "취향에 따라 선택하는 4개의 독채 객실",
                 "images": [
                   {
                     "id": "6ef9ad9b-566c-4236-a6e0-addb36fff94e",
@@ -713,7 +706,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " 4동의 독채, 각기 다른 매력의 객실 타입을 만나보세요"
               },
               "gallery": {
                 "title": "Special things",
@@ -754,7 +747,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "루파펜션의 야외풀장과 따듯하게 몸을 녹여줄 불멍존을 즐길 수 있습니다."
+                "description": "루파펜션의 야외 풀장에서 여유를 즐기고,\n따뜻한 불멍존에서 몸과 마음을 녹이는 시간을 경험해 보세요."
               },
               "signature": {
                 "title": "",
