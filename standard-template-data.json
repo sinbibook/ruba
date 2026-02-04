@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-02-04T00:51:04.585Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-02-04T00:58:50.591Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
     "homepageId": "aadc8ea8-e258-4f9b-98dd-ee333834a2e5"
@@ -682,7 +682,7 @@
                 "description": "자연 속 쉼이 머무는 가평 루바펜션"
               },
               "essence": {
-                "title": "취향에 따라 선택하는 4개의 독채 객실",
+                "title": "루바펜션 미리보기",
                 "images": [
                   {
                     "id": "6ef9ad9b-566c-4236-a6e0-addb36fff94e",
@@ -706,7 +706,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": " 4동의 독채, 각기 다른 매력의 객실 타입을 만나보세요"
+                "description": " 4동의 독채, 각기 다른 매력의 객실 타입을 만나보세요."
               },
               "gallery": {
                 "title": "Special things",
