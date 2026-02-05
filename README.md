@@ -1,1 +1,1 @@
-# ruba
+# template-full-banner-wipe
