@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-02-05T06:23:47.308Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-02-05T06:25:01.876Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
     "homepageId": "aadc8ea8-e258-4f9b-98dd-ee333834a2e5"
@@ -699,22 +699,22 @@
                 "title": "하늘 아래 즐기는 루프탑 바베큐",
                 "images": [
                   {
-                    "id": "3f89cd47-224e-442e-a1a0-c5e7b3c7a6bf",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_essence/1770262312143-cdz6oq0umx7.jpg",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "3ea9247c-7082-47d8-abc1-71746dc57102",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_essence/1770178786659-o9odqd0u65g.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "48dce398-abff-4b7e-805b-e6aedd9da6d8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_essence/1770178786659-46g6w85xq7w.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "3f89cd47-224e-442e-a1a0-c5e7b3c7a6bf",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_essence/1770262312143-cdz6oq0umx7.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
