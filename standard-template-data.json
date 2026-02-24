@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.30.0",
-    "generatedAt": "2026-02-19T09:36:26.049Z",
+    "version": "1.31.0",
+    "generatedAt": "2026-02-24T01:44:07.473Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
     "homepageId": "aadc8ea8-e258-4f9b-98dd-ee333834a2e5"
@@ -360,7 +360,7 @@
     "nameEn": "Gapyeong Ruba Pension",
     "domain": "ruba.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10884",
-    "ybsId": ""
+    "ybsId": "79492"
   },
   "rooms": [
     {
@@ -368,6 +368,7 @@
       "name": "루바1동 (루프탑바베큐, 불멍)",
       "description": "[인원추가(1박기준/현장결제)]\n- 24개월 이상 1인 20,000원 (1박기준/현장결제)\n- 24개월 미만은 무료이나 인원에는 포함\n- 침구 추가 : 10,000원(인원추가비용 침구비용 포함 / 추가 침구를 원하시는 경우)",
       "roomInfo": "독채형 : 거실+침대방A(퀸)+온돌방A+주방+화장실2+테라스(개별바베큐)\t\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,화장대,침대방,전자레인지,커피포트,인덕션,개별바비큐,테라스",
+      "usageGuide": "",
       "group": null,
       "size": 3.31,
       "baseOccupancy": 2,
@@ -425,6 +426,7 @@
       "name": "루바2동 (루프탑바베큐, 불멍)",
       "description": "[인원추가(1박기준/현장결제)]\n- 24개월 이상 1인 20,000원 (1박기준/현장결제)\n- 24개월 미만은 무료이나 인원에는 포함\n- 침구 추가 : 10,000원(인원추가비용 침구비용 포함 / 추가 침구를 원하시는 경우)",
       "roomInfo": "독채형 : 거실+침대방A(퀸)+온돌방A+주방+화장실2+테라스(개별바베큐)\t\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,화장대,침대방,전자레인지,커피포트,인덕션,개별바비큐,테라스",
+      "usageGuide": "",
       "group": null,
       "size": 3.31,
       "baseOccupancy": 2,
@@ -482,6 +484,7 @@
       "name": "루바3동 (루프탑바베큐, 불멍)",
       "description": "[인원추가(1박기준/현장결제)]\n- 24개월 이상 1인 20,000원 (1박기준/현장결제)\n- 24개월 미만은 무료이나 인원에는 포함\n- 침구 추가 : 10,000원(인원추가비용 침구비용 포함 / 추가 침구를 원하시는 경우)",
       "roomInfo": "독채형 : 거실+침대방A(퀸)+온돌방A+주방+화장실2+테라스(개별바베큐)\t\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,화장대,침대방,전자레인지,커피포트,인덕션,개별바비큐,테라스",
+      "usageGuide": "",
       "group": null,
       "size": 3.31,
       "baseOccupancy": 2,
@@ -539,6 +542,7 @@
       "name": "스페셜동(개별수영장, 스파)",
       "description": "[인원추가(1박기준/현장결제)]\n- 24개월 이상 1인 30,000원 (1박기준/현장결제)\n- 24개월 미만은 무료이나 인원에는 포함\n- 침구 추가 : 10,000원(인원추가비용 침구비용 포함 / 추가 침구를 원하시는 경우)",
       "roomInfo": "독채형 : 거실(퀸)+침대방A(퀸)+주방+화장실1+테라스(개별바베큐)+스파+개별수영장\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,화장대,침대방,전자레인지,커피포트,인덕션,개별바비큐,테라스,개별수영장,스파",
+      "usageGuide": "",
       "group": null,
       "size": 3.31,
       "baseOccupancy": 2,
@@ -1435,7 +1439,7 @@
             {
               "id": "808c2f0f-47bb-423f-bc4b-c8e29aad02c1",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/roomtype_exterior/1771493522140-aqgw2gmnqmo.jpg",
-              "sortOrder": 15,
+              "sortOrder": 7,
               "description": "",
               "isSelected": true,
               "blockId": "24b0bb04-bbf7-4897-aa89-8442728bb455",
@@ -1444,7 +1448,7 @@
             {
               "id": "4d1f661e-39e6-4e2f-9650-0d8d19239d48",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/roomtype_exterior/1771493711329-xd9lwbuu0p.jpg",
-              "sortOrder": 15,
+              "sortOrder": 8,
               "description": "",
               "isSelected": true,
               "blockId": "24b0bb04-bbf7-4897-aa89-8442728bb455",
@@ -1611,7 +1615,7 @@
             {
               "id": "6885591e-8083-4470-a493-ba9939f0dfa1",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/roomtype_exterior/1770098325963-rywcq6jndtg.jpg",
-              "sortOrder": 7,
+              "sortOrder": 9,
               "description": "",
               "isSelected": true,
               "blockId": "e2743428-692e-4da3-b0f4-2eb93182b9c8",
@@ -1620,7 +1624,7 @@
             {
               "id": "feaa0de2-56ec-442c-8e48-fb5b9630a30f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/roomtype_exterior/1770098325963-p0ximi388d7.jpg",
-              "sortOrder": 8,
+              "sortOrder": 10,
               "description": "",
               "isSelected": true,
               "blockId": "e2743428-692e-4da3-b0f4-2eb93182b9c8",
@@ -1629,7 +1633,7 @@
             {
               "id": "21fb55bf-6549-45e7-95c5-50359fa3222b",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/roomtype_exterior/1771493291412-vjm0o8jxm0i.jpg",
-              "sortOrder": 9,
+              "sortOrder": 11,
               "description": "",
               "isSelected": true,
               "blockId": "e2743428-692e-4da3-b0f4-2eb93182b9c8",
@@ -1638,7 +1642,7 @@
             {
               "id": "98359632-8b3d-4e99-86ed-7f8946fa70b6",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/roomtype_exterior/1770098325963-zlviv150moi.jpg",
-              "sortOrder": 10,
+              "sortOrder": 12,
               "description": "",
               "isSelected": true,
               "blockId": "e2743428-692e-4da3-b0f4-2eb93182b9c8",
@@ -1805,7 +1809,7 @@
             {
               "id": "89075394-1584-4dd8-86da-99a22aaeb3ce",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/roomtype_exterior/1770098207205-f8sucv6fijd.jpg",
-              "sortOrder": 11,
+              "sortOrder": 13,
               "description": "",
               "isSelected": true,
               "blockId": "e39215bf-8ea6-4ad7-990b-e2ce105d6adc",
@@ -1814,7 +1818,7 @@
             {
               "id": "d999db4c-5f49-4a1a-bcff-adbc2059cf56",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/roomtype_exterior/1770098207205-dz0hcby5bbf.jpg",
-              "sortOrder": 12,
+              "sortOrder": 14,
               "description": "",
               "isSelected": true,
               "blockId": "e39215bf-8ea6-4ad7-990b-e2ce105d6adc",
@@ -1823,7 +1827,7 @@
             {
               "id": "84e1c58f-6698-42d6-b1b1-3ac3faf57ecc",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/roomtype_exterior/1770098207205-zv03hdwxzo.jpg",
-              "sortOrder": 13,
+              "sortOrder": 15,
               "description": "",
               "isSelected": true,
               "blockId": "e39215bf-8ea6-4ad7-990b-e2ce105d6adc",
@@ -1832,7 +1836,7 @@
             {
               "id": "036cb283-dede-4b2c-b89d-c5ed3a22435f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/roomtype_exterior/1771493291413-w2oha81qct7.jpg",
-              "sortOrder": 14,
+              "sortOrder": 16,
               "description": "",
               "isSelected": true,
               "blockId": "e39215bf-8ea6-4ad7-990b-e2ce105d6adc",
