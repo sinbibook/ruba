@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.37.0",
-    "generatedAt": "2026-03-17T01:34:43.361Z",
+    "version": "1.38.0",
+    "generatedAt": "2026-03-17T01:36:23.637Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
     "homepageId": "aadc8ea8-e258-4f9b-98dd-ee333834a2e5"
@@ -293,8 +293,8 @@
             "isSelected": true
           },
           {
-            "id": "4051e50d-4a10-4ed5-b4e2-ac5f889c26d7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/bb7c565d-99b0-4992-8b25-20a0f9e9ddd0/main/1770273030002-dbeog92mxy5.jpg",
+            "id": "2fa22006-efd9-499d-8866-9f2f12d79566",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/bb7c565d-99b0-4992-8b25-20a0f9e9ddd0/main/1773711347660-tm87nnfulwi.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
