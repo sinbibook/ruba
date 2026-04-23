@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.40.0",
-    "generatedAt": "2026-03-27T05:13:32.182Z",
+    "version": "1.41.0",
+    "generatedAt": "2026-04-23T06:39:36.102Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
     "homepageId": "aadc8ea8-e258-4f9b-98dd-ee333834a2e5"
@@ -19,7 +19,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입/퇴실 안내]\n - 입실시각: 15시\n - 퇴실시각: 11시\n ※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가(1박기준/현장결제)]\n- 24개월 이상 1인 20,000원 (1박기준/현장결제)\n- 24개월 미만은 무료이나 인원에는 포함\n- 침구 추가 : 10,000원(인원추가비용 침구비용 포함 / 추가 침구를 원하시는 경우)",
-    "usageGuide": "[펜션 이용 안내 사항]\n1. 미성년자는 보호자 동반 없이 이용하실 수 없습니다.\n2. 상업적인 용도로 펜션 내 촬영을 삼가 주시기 바라며, 필요시 펜션에 사전 문의 부탁드립니다.\n3. 안전한 휴식을 위해 객실 내 불꽃, 촛불, 그릴, 숯 등의 반입을 금지합니다.\n4. 객실 내 시설 및 집기가 훼손 또는 분실되지 않도록 이용에 주의해 주시기 바랍니다.\n5. 퇴실 시 지정된 장소에 음식물 쓰레기를 비롯한 재활용품, 일반 쓰레기를 배출해 주시기 바랍니다.\n6. 객실에서는 절대 금연이오니, 지정된 장소를 이용해 주시기 바랍니다.\n\n[개별바베큐(숯+그릴)]\n- 숯+그릴 비용 : 30,000원 (현장결제)\n- 숮 추가 비용 : 10,000원 (현장결제)\n- 이용 장소: 각 객실 루프탑 개별 바비큐 가능\n- 20시 전까지 신청 필요 \n※ 해산물 및 고기요리와 튀김류 등 연기가 많이 나는 조리는 루프탑에서 가능하며, 객실 내 조리는 삼가해 주시기 바랍니다.\n※ 개인 휴대용 가스버너, 숯 등은 사용 금지\n\n[야외 수영장]\n- 하절기 운영 (현장 및 날씨 상황에 따라 이용 불가할 수 있습니다)\n- 이용시간 : 15:00~19:00\n- 이용 요금 : 무료\n- 애견 동반 가능\n\n[불멍]\n- 기본 장작 포함\n- 이용요금 : 20,000원\n\n[개별수영장 & 스파] \n- 이용 객실: 스페셜동\n- 개별풀+스파 이용 요금: 30,000원 (1박기준/현장결제)\n※ 개별풀 미온수 불가, 냉수만 가능\n\n[애견동반]\n- 전 객실 애견동반 가능(사전문의필수)\n- 추가요금: 1마리 당 1~8kg 20,000원 / 9kg 이상은 스페셜객실만 가능 1마리 당 30,000원 (1박기준/현장결제)\n- 제한 마릿수: 최대 3마리 동반입실 가능\n※ 사람 또는 반려견에게 심한 공격성을 보이거나 공격한 반려견은 입실 불가합니다.\n\n[잔디마당]\n- 반려견을 위한 잔디마당이 준비되어 있습니다. \n\n[편의시설]\n- 전 객실 Wi-Fi 이용 가능\n- 펜션 내 주차공간\n- 반려견을 위한 잔디마당 보유\n\n[승용차 이용시]\n ※ 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 경기 가평군 가평읍 태봉두밀로406번길 185-51 루바\n\n[주변 관광지]\n- 자라섬\n- 가평레일파크",
+    "usageGuide": "[펜션 이용 안내 사항]\n1. 미성년자는 보호자 동반 없이 이용하실 수 없습니다.\n2. 상업적인 용도로 펜션 내 촬영을 삼가 주시기 바라며, 필요시 펜션에 사전 문의 부탁드립니다.\n3. 안전한 휴식을 위해 객실 내 불꽃, 촛불, 그릴, 숯 등의 반입을 금지합니다.\n4. 객실 내 시설 및 집기가 훼손 또는 분실되지 않도록 이용에 주의해 주시기 바랍니다.\n5. 퇴실 시 지정된 장소에 음식물 쓰레기를 비롯한 재활용품, 일반 쓰레기를 배출해 주시기 바랍니다.\n6. 객실에서는 절대 금연이오니, 지정된 장소를 이용해 주시기 바랍니다.\n\n[개별바베큐(숯+그릴)]\n- 숯+그릴 비용 : 30,000원 (현장결제)\n- 숮 추가 비용 : 10,000원 (현장결제)\n- 이용 장소: 각 객실 루프탑 개별 바비큐 가능\n- 20시 전까지 신청 필요 \n※ 해산물 및 고기요리와 튀김류 등 연기가 많이 나는 조리는 루프탑에서 가능하며, 객실 내 조리는 삼가해 주시기 바랍니다.\n※ 개인 휴대용 가스버너, 숯 등은 사용 금지\n\n[야외 수영장]\n- 운영 기간 : 26년 5월 22일 ~ 9월 말 예정 (현장 및 날씨 상황에 따라 이용 불가할 수 있습니다)\n- 이용 시간: 15:00~19:00\n- 이용 요금: 무료\n- 애견 동반 가능\n\n[불멍]\n- 기본 장작 포함\n- 이용요금 : 20,000원\n\n[개별수영장 & 스파]\n- 이용 객실: 스페셜동\n- 운영 기간: 하절기 / 별도 공지 예정 \n- 개별풀+스파 이용 요금: 30,000원 (1박기준/현장결제)\n※ 개별풀 미온수 불가, 냉수만 가능\n\n[애견동반]\n- 전 객실 애견동반 가능(사전문의필수)\n- 추가요금: 1마리 당 1~8kg 20,000원 / 9kg 이상은 스페셜객실만 가능 1마리 당 30,000원 (1박기준/현장결제)\n- 제한 마릿수: 최대 3마리 동반입실 가능\n※ 사람 또는 반려견에게 심한 공격성을 보이거나 공격한 반려견은 입실 불가합니다.\n\n[잔디마당]\n- 반려견을 위한 잔디마당이 준비되어 있습니다. \n\n[편의시설]\n- 전 객실 Wi-Fi 이용 가능\n- 펜션 내 주차공간\n- 반려견을 위한 잔디마당 보유\n\n[승용차 이용시]\n ※ 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 경기 가평군 가평읍 태봉두밀로406번길 185-51 루바\n\n[주변 관광지]\n- 자라섬\n- 가평레일파크",
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "경기도",
     "city": "가평군",
@@ -134,7 +134,7 @@
         "id": "fde544e3-266b-4844-904b-08e0884a2136",
         "name": "야외 수영장",
         "description": "자연과 맞닿은 야외 수영장에서 여유로운 휴식을 즐겨보세요.",
-        "usageGuide": "- 하절기 운영 (현장 및 날씨 상황에 따라 이용 불가할 수 있습니다)\n- 이용시간 : 15:00~19:00\n- 이용 요금 : 무료\n- 애견 동반 가능",
+        "usageGuide": "[야외 수영장]\n- 운영 기간 : 26년 5월 22일 ~ 9월 말 예정 (현장 및 날씨 상황에 따라 이용 불가할 수 있습니다)\n- 이용 시간: 15:00~19:00\n- 이용 요금: 무료\n- 애견 동반 가능",
         "displayOrder": 1,
         "images": [
           {
@@ -201,7 +201,7 @@
         "id": "d0e77cda-3fde-4e45-8a45-d899cc3d9e4c",
         "name": "개별수영장 & 스파",
         "description": "야외 개별수영장 & 스파를 동시에 즐길 수 있습니다. ",
-        "usageGuide": "[개별수영장 & 스파] \n- 이용 객실: 스페셜동\n- 개별풀+스파 이용 요금: 30,000원 (1박기준/현장결제)\n※ 개별풀 미온수 불가, 냉수만 가능",
+        "usageGuide": "[개별수영장 & 스파]\n- 이용 객실: 스페셜동\n- 운영 기간: 하절기 / 별도 공지 예정 \n- 개별풀+스파 이용 요금: 30,000원 (1박기준/현장결제)\n※ 개별풀 미온수 불가, 냉수만 가능",
         "displayOrder": 3,
         "images": [
           {
@@ -479,18 +479,35 @@
   "rooms": [
     {
       "id": "18afda63-0bb0-4a0e-97f7-7b683313b5e9",
+      "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
+      "propertyName": "가평 루바펜션",
       "name": "루바1동 (루프탑바베큐, 불멍)",
+      "nameEn": "RUBA 1",
       "description": "[인원추가(1박기준/현장결제)]\n- 24개월 이상 1인 20,000원 (1박기준/현장결제)\n- 24개월 미만은 무료이나 인원에는 포함\n- 침구 추가 : 10,000원(인원추가비용 침구비용 포함 / 추가 침구를 원하시는 경우)",
       "roomInfo": "독채형 : 거실+침대방A(퀸)+온돌방A+주방+화장실2+테라스(개별바베큐)\t\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,화장대,침대방,전자레인지,커피포트,인덕션,개별바비큐,테라스",
       "usageGuide": "",
       "group": null,
       "size": 3.31,
+      "sizePyeong": 1,
       "baseOccupancy": 2,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -526,6 +543,7 @@
         "침실분리형"
       ],
       "status": "active",
+      "bankAccountId": "b362db5d-7f5c-4fbf-9148-2e98e066021e",
       "images": [
         {
           "thumbnail": [],
@@ -533,22 +551,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2026-01-22T06:35:57.566Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "24b0bb04-bbf7-4897-aa89-8442728bb455",
+      "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
+      "propertyName": "가평 루바펜션",
       "name": "루바2동 (루프탑바베큐, 불멍)",
+      "nameEn": "RUBA 2",
       "description": "[인원추가(1박기준/현장결제)]\n- 24개월 이상 1인 20,000원 (1박기준/현장결제)\n- 24개월 미만은 무료이나 인원에는 포함\n- 침구 추가 : 10,000원(인원추가비용 침구비용 포함 / 추가 침구를 원하시는 경우)",
       "roomInfo": "독채형 : 거실+침대방A(퀸)+온돌방A+주방+화장실2+테라스(개별바베큐)\t\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,화장대,침대방,전자레인지,커피포트,인덕션,개별바비큐,테라스",
       "usageGuide": "",
       "group": null,
       "size": 3.31,
+      "sizePyeong": 1,
       "baseOccupancy": 2,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -584,6 +623,7 @@
         "침실분리형"
       ],
       "status": "active",
+      "bankAccountId": "b362db5d-7f5c-4fbf-9148-2e98e066021e",
       "images": [
         {
           "thumbnail": [],
@@ -591,22 +631,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 2,
+      "createdAt": "2026-01-22T06:35:57.657Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "e2743428-692e-4da3-b0f4-2eb93182b9c8",
+      "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
+      "propertyName": "가평 루바펜션",
       "name": "루바3동 (루프탑바베큐, 불멍)",
+      "nameEn": "RUBA 3",
       "description": "[인원추가(1박기준/현장결제)]\n- 24개월 이상 1인 20,000원 (1박기준/현장결제)\n- 24개월 미만은 무료이나 인원에는 포함\n- 침구 추가 : 10,000원(인원추가비용 침구비용 포함 / 추가 침구를 원하시는 경우)",
       "roomInfo": "독채형 : 거실+침대방A(퀸)+온돌방A+주방+화장실2+테라스(개별바베큐)\t\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,화장대,침대방,전자레인지,커피포트,인덕션,개별바비큐,테라스",
       "usageGuide": "",
       "group": null,
       "size": 3.31,
+      "sizePyeong": 1,
       "baseOccupancy": 2,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -642,6 +703,7 @@
         "침실분리형"
       ],
       "status": "active",
+      "bankAccountId": "b362db5d-7f5c-4fbf-9148-2e98e066021e",
       "images": [
         {
           "thumbnail": [],
@@ -649,22 +711,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 3,
+      "createdAt": "2026-01-22T06:35:57.667Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "e39215bf-8ea6-4ad7-990b-e2ce105d6adc",
+      "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
+      "propertyName": "가평 루바펜션",
       "name": "스페셜동(개별수영장, 스파)",
+      "nameEn": "Special House",
       "description": "[인원추가(1박기준/현장결제)]\n- 24개월 이상 1인 30,000원 (1박기준/현장결제)\n- 24개월 미만은 무료이나 인원에는 포함\n- 침구 추가 : 10,000원(인원추가비용 침구비용 포함 / 추가 침구를 원하시는 경우)",
       "roomInfo": "독채형 : 거실(퀸)+침대방A(퀸)+주방+화장실1+테라스(개별바베큐)+스파+개별수영장\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,화장대,침대방,전자레인지,커피포트,인덕션,개별바비큐,테라스,개별수영장,스파",
       "usageGuide": "",
       "group": null,
       "size": 3.31,
+      "sizePyeong": 1,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -702,6 +785,7 @@
         "침실분리형"
       ],
       "status": "active",
+      "bankAccountId": "b362db5d-7f5c-4fbf-9148-2e98e066021e",
       "images": [
         {
           "thumbnail": [],
@@ -709,7 +793,11 @@
           "exterior": []
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 4,
+      "createdAt": "2026-01-22T06:35:57.634Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     }
   ],
   "homepage": {
@@ -784,7 +872,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": " ",
@@ -797,7 +887,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "자연 속 쉼이 머무는 가평 루바펜션"
+                "description": "자연 속 쉼이 머무는 가평 루바펜션",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": "하늘 아래 즐기는 루프탑 바베큐",
@@ -824,7 +916,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "탁 트인 전망 속에서 특별한 식사를 경험해 보세요."
+                "description": "탁 트인 전망 속에서 특별한 식사를 경험해 보세요.",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "Special things",
@@ -872,11 +966,15 @@
                     "isSelected": true
                   }
                 ],
-                "description": "루프탑 바베큐와 따뜻한 불멍존에서 몸과 마음을 녹이고,\n루바펜션의 야외 풀장에서 여유로운 시간을 즐겨보세요."
+                "description": "루프탑 바베큐와 따뜻한 불멍존에서 몸과 마음을 녹이고,\n루바펜션의 야외 풀장에서 여유로운 시간을 즐겨보세요.",
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "",
-                "images": []
+                "images": [],
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
@@ -1163,7 +1261,9 @@
             "isSelected": true,
             "category": "property_exterior"
           }
-        ]
+        ],
+        "name": "가평 루바펜션",
+        "nameEn": "Gapyeong Ruba Pension"
       },
       "roomtypes": [
         {
@@ -1952,6 +2052,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "aadc8ea8-e258-4f9b-98dd-ee333834a2e5"
   }
 }
