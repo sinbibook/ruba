@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.41.0",
-    "generatedAt": "2026-04-23T06:39:36.102Z",
+    "version": "1.42.0",
+    "generatedAt": "2026-04-27T08:42:14.698Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "4265d987-ebe5-4494-a437-64f869dcae77",
     "homepageId": "aadc8ea8-e258-4f9b-98dd-ee333834a2e5"
@@ -823,8 +823,8 @@
                 "title": "가평 루바펜션",
                 "images": [
                   {
-                    "id": "88178ee4-6255-4d29-a1cb-467dd4cd818b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_hero/1773643158311-nr8l9pquo0q.jpg",
+                    "id": "ecd51335-511f-4775-815d-6d3555722076",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_hero/1770105171092-rtd46m63p8e.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -837,44 +837,44 @@
                     "isSelected": true
                   },
                   {
+                    "id": "88178ee4-6255-4d29-a1cb-467dd4cd818b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_hero/1773643158311-nr8l9pquo0q.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "8c6f6a53-0202-43bd-8af2-a483a3fc0cd3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_hero/1770099852902-1dhz1u1w713.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "bbf0fc9e-99ba-4fc1-944f-40bafbf70fa0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_hero/1770099852902-ui5uhzv35mh.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "2a2ae812-a848-4834-8a90-f27f4508206d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_hero/1770099852902-pr603s5idqf.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "bd2b90ce-496c-44ec-9994-977ae8517c51",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_hero/1770268772371-6tz25egvdnv.jpg",
-                    "sortOrder": 5,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "ecd51335-511f-4775-815d-6d3555722076",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_hero/1770105171092-rtd46m63p8e.jpg",
                     "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": " ",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": " "
               },
               "closing": {
                 "title": " ",
@@ -887,9 +887,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "자연 속 쉼이 머무는 가평 루바펜션",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "자연 속 쉼이 머무는 가평 루바펜션"
               },
               "essence": {
                 "title": "하늘 아래 즐기는 루프탑 바베큐",
@@ -916,65 +916,65 @@
                     "isSelected": true
                   }
                 ],
-                "description": "탁 트인 전망 속에서 특별한 식사를 경험해 보세요.",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "탁 트인 전망 속에서 특별한 식사를 경험해 보세요."
               },
               "gallery": {
                 "title": "Special things",
                 "images": [
                   {
+                    "id": "bb49ceba-3464-4465-9172-62d933570652",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_gallery/1770262312143-otmrtebma8i.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "9008fb0e-cd58-405e-a34f-49f23a924707",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_gallery/1770088861275-yvxysnt375e.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "d3e63680-8c89-44a2-9343-e091be4b317f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_gallery/1770088861275-mktoon2wfjj.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "d314d23f-4378-42ad-a16c-ea52f4f1a905",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_gallery/1770272454512-ntl5sha21dl.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "56d3d4ed-ccd5-458f-a4bd-599daa364c9d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_gallery/1770088861275-5m7zcu0gcsj.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "30c0e251-4901-47ad-8d9d-35e353783f6c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_gallery/1770088861275-cb5wli0ko7n.jpg",
-                    "sortOrder": 4,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "bb49ceba-3464-4465-9172-62d933570652",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/aadc8ea8-e258-4f9b-98dd-ee333834a2e5/index_gallery/1770262312143-otmrtebma8i.jpg",
                     "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "루프탑 바베큐와 따뜻한 불멍존에서 몸과 마음을 녹이고,\n루바펜션의 야외 풀장에서 여유로운 시간을 즐겨보세요.",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "루프탑 바베큐와 따뜻한 불멍존에서 몸과 마음을 녹이고,\n루바펜션의 야외 풀장에서 여유로운 시간을 즐겨보세요."
               },
               "signature": {
                 "title": "",
                 "images": [],
-                "mediaType": "image",
-                "videos": []
+                "videos": [],
+                "mediaType": "image"
               }
             }
           ]
